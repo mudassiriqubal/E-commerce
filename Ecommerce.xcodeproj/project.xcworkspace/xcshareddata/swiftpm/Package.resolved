@@ -3,7 +3,7 @@
     {
       "identity" : "activelabel.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/imodeveloperlab/ActiveLabel.swift",
+      "location" : "https://github.com/imodeveloper/ActiveLabel.swift",
       "state" : {
         "revision" : "ad145ba677be2f8e342033a1cadd8fee4059e017",
         "version" : "1.1.7"
@@ -21,7 +21,7 @@
     {
       "identity" : "dskit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/imodeveloperlab/dskit",
+      "location" : "https://github.com/imodeveloper/dskit",
       "state" : {
         "revision" : "0fbbeb14e159ad873f992afb151092a949435731",
         "version" : "1.0.4"
